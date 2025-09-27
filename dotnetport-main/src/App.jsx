@@ -12,7 +12,7 @@ import ContactSection from "./Components/ContactSection";
 import Footer from "./Components/Footer";
 
 function App() {
-	console.log("Krishna Vamsi");
+	console.log("Sowmya Yalavarthi");
 	const disableRightClick = (e) => {
         e.preventDefault();
     };
