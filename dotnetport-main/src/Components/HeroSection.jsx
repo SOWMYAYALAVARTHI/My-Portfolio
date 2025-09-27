@@ -3,7 +3,7 @@ import Typed from 'typed.js'
 import { FiLinkedin, FiGithub, FiTwitter, FiInstagram, FiMail } from 'react-icons/fi'
 import { RiTwitterXLine, RiGoogleFill } from 'react-icons/ri'
 import { Link } from 'react-router-dom'
-import KrishImg from '../assets/picture1.png'
+import SowmyaImg from '../assets/Sowmya_Pic.png'
 import Blob from '../assets/others/blob.svg'
 import { TypeAnimation } from 'react-type-animation'
 import signatureImg from '../assets/signature1.png';
@@ -45,7 +45,7 @@ const HeroSection = () => {
                         repeat={Infinity}
                     />
                     {/* <p className='text-xl text-justify'>A Engineer Working on Actively Learning the Skills Required to be an Efficient Software Engineer, Flexible to Learn New Technologies.</p> */}
-                    <p className='text-xl text-justify'>A Data Scientist and Data Engineer with 4+ years of experience, blending strong software engineering with advanced analytics. I love transforming complex data problems into scalable, intelligent solutions and believe AI is as much about people as it is about technology. Curiosity isn’t just a skill for me—it’s a lifestyle.</p>
+                    <p className='text-xl text-justify'>A Data Scientist and Data Engineer with 5 years of experience, blending strong software engineering with advanced analytics. I love transforming complex data problems into scalable, intelligent solutions and believe AI is as much about people as it is about technology. Curiosity isn’t just a skill for me—it’s a lifestyle.</p>
                     <div className='flex gap-4'>
                         <button className='border p-2 hover:bg-blue-900 bg-blue-700 rounded-lg text-white text-lg px-4 w-fit text-center'><a href='#contact'>Contact Me</a></button>
                     </div>
